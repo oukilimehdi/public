@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(212, 241, 250);
+}
+
+
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(7, 134, 151);
+    text-transform: uppercase;
+    font-family: "pacifico";
+    font-weight: 900;
+}
+
+.header{
+    background-color: rgb(246, 246, 217);
+    height: 100px;
+    border-right: solid 10px rgb(7, 134, 151);
+    border-left: solid 10px rgb(7, 134, 151);
+    margin: 0px 10px;
+   
+}
+
+#form{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(7, 134, 151);
+    height: 70px;
+    color: white;
+    padding-top: 10px;
+    font-family: "pacifico";
+}
+#reset{
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#result{
+    color: rgb(7, 134, 151);
+}
+
